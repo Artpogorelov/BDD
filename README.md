@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/3tu3x7047w1q54mv?svg=true)](https://ci.appveyor.com/project/YuliaPtitca/page-object-s)
+![Java CI with Gradle](https://github.com/Artpogorelov/BDD/actions/workflows/gradle-publish.yml/badge.svg)
